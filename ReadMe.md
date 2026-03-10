@@ -16,14 +16,6 @@ This repository contains small Python scripts that demonstrate:
 
 ## Requirements
 
-- Python 3.9+
-- Packages:
-	- `requests`
-	- `pandas`
-	- `Pillow`
-	- `randomuser`
-	- `ipython` (used for notebook-style display import in `http_demo.py`)
-
 Install dependencies:
 
 ```bash
